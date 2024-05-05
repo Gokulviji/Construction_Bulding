@@ -747,6 +747,7 @@ font-size: 14px;
     #flogo1{
         width: 40%;
         display: none;
+         margin-left: 50px;
     }
     footer{
         width: 100%;
