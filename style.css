@@ -1293,6 +1293,8 @@ font-size: 14px;
         margin-right: -85px;
         width: 30%;
         margin-top: -10px;
+        margin-left: -50px;
+        
     }
     .footer2{
         flex-wrap: wrap;
