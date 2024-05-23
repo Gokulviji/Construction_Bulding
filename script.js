@@ -15,7 +15,7 @@ function sendMail() {
     Host: "smtp.elasticemail.com",
     Username: "prasanthramamoorthy7@gmail.com",
     Password: "529F0845F35247E745378C060CDB266AB06B",
-    To: "gokul859305@gmail.com",
+    To: email.value,
     From: "prasanthramamoorthy7@gmail.com",
     Subject: "Contacting Graha builders",
     Body: body,
